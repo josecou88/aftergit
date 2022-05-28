@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(174, 156, 132);
+}
+header {
+    color: rgb(116, 15, 15);
+}
+
+li {
+    list-style: none;
+}
+li a {
+    text-decoration: none;
+    color:  rgb(116, 15, 15);
+}
+li a:hover {
+    color: blue;
+}
+.copita {
+    display: flex;
+    justify-content: center;
+}
+.logo {
+    display: flex;
+    justify-content: center;
+}
+
+.copita {
+    width: 8vw;
+}
+
+nav {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.navegacion{
+   
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+
+    
+}
+.link {
+    cursor: pointer;
+}
+
